@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/CS-415-MP2-Submission/Content/BlockGame/Maps/MP2-Map.umap",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/CS-415-MP2-Submission/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/CS-415-MP2-Submission/Content/LearningKit_Games/Maps/LearningKit_Robotics_Showcase.umap",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/Mp-2-Level_Design/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/Mp-2-Level_Design/UnrealLearningKit/Content/BlockGame/Maps/BlockGameMap.umap",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/Mp-2-Level_Design/UnrealLearningKit/Content/BlockGame/Maps/MP2-Map.umap",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/Mp-2-Level_Design/UnrealLearningKit/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/Mp-2-Level_Design/UnrealLearningKit/Content/LearningKit_Games/UI/PlayerHealth.uasset",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/Mp-2-Level_Design/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/Mp-2-Level_Design/UnrealLearningKit/Content/LearningKit_Games/UI/RestartScreen.uasset",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/Mp-2-Level_Design/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/HealthPack.uasset",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/Mp-2-Level_Design/UnrealLearningKit/Content/LearningKit_Games/UI/PlayerScore.uasset",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/Mp-2-Level_Design/UnrealLearningKit/Content/LearningKit_Games/UI/PlayerUI.uasset",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/Mp-2-Level_Design/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/Mp-2-Level_Design/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP_2.uasset",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/Mp-2-Level_Design/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AICharacter/BP_Pursuer.uasset",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/Mp-2-Level_Design/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AICharacter/Pursuer_AIController.uasset",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/Mp-2-Level_Design/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AICharacter/EAIState.uasset",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/Mp-2-Level_Design/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP_3.uasset",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/Mp-2-Level_Design/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP_4.uasset",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/Mp-2-Level_Design/UnrealLearningKit/Content/Maps/NewMap.umap",
+				"C:/Users/jackt/OneDrive/Desktop/Unreal Projects/Mp-2-Level_Design/UnrealLearningKit/Content/Maps/MP2-Map.umap"
+			]
+		}
+	]
+}
